@@ -1,2 +1,2 @@
 # Clase_NLP
-Repositorio Proyecto Inicial
+Repositorio Proyecto Inicial.
