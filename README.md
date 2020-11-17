@@ -8,10 +8,10 @@ Es este repo 🍚 vamos a ver el preprocesamiento que se hace en los textos, apr
 
 #Cargar datos en dataframe 
 
-#Renombrar columna
-#Leer la observacion, separar y contar.
-#Conteo de palabras de la lista.
-#Conteo de letras de la lista.
+* Renombrar columna
+* Leer la observacion, separar y contar.
+* Conteo de palabras de la lista.
+* Conteo de letras de la lista.
 
 
 .
